@@ -1,0 +1,1 @@
+curl -d @payload-query.txt -H "X-SFDC-Session: 00D6E0000000NBI!AQEAQCD7cOm0gaAy9dzkQ38.nL5kBYlmrwno91_ucXD5NiUeMvb22OchDwasmxrUCRlv6s4D4bUNhLEAAe47QLRlapVxHG6U" -H "Content-Type: text/csv; charset=UTF-8" https://https://renaultarca--HQStaging.cs85.my.salesforce.com/services/async/40.0/job/jobId/batch

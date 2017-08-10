@@ -1,0 +1,1 @@
+curl -H "X-SFDC-Session: sessionId" -H "Content-Type: text/csv; charset=UTF-8" -d @payload-close-job.xml https://instance.salesforce.com/services/async/40.0/job/jobId

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><jobInfo
+   xmlns="http://www.force.com/2009/06/asyncapi/dataload">
+ <id>7506E000001JTTJQA4</id>
+ <operation>query</operation>
+ <object>Account</object>
+ <createdById>0056E000001WaswQAC</createdById>
+ <createdDate>2017-08-10T07:52:14.000Z</createdDate>
+ <systemModstamp>2017-08-10T07:52:14.000Z</systemModstamp>
+ <state>Open</state>
+ <concurrencyMode>Parallel</concurrencyMode>
+ <contentType>CSV</contentType>
+ <numberBatchesQueued>0</numberBatchesQueued>
+ <numberBatchesInProgress>0</numberBatchesInProgress>
+ <numberBatchesCompleted>123</numberBatchesCompleted>
+ <numberBatchesFailed>0</numberBatchesFailed>
+ <numberBatchesTotal>123</numberBatchesTotal>
+ <numberRecordsProcessed>12237190</numberRecordsProcessed>
+ <numberRetries>0</numberRetries>
+ <apiVersion>40.0</apiVersion>
+ <numberRecordsFailed>0</numberRecordsFailed>
+ <totalProcessingTime>0</totalProcessingTime>
+ <apiActiveProcessingTime>0</apiActiveProcessingTime>
+ <apexProcessingTime>0</apexProcessingTime>
